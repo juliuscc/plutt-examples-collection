@@ -1,0 +1,15 @@
+[submodule "sites/next-realworld-example-app"]
+	path = sites/next-realworld-example-app
+	url = git@github.com:juliuscc/next-realworld-example-app.git
+[submodule "sites/vue-realworld-example-app"]
+	path = sites/vue-realworld-example-app
+	url = git@github.com:juliuscc/vue-realworld-example-app.git
+[submodule "components/realworld-plutt-microapp-login"]
+	path = components/realworld-plutt-microapp-login
+	url = git@github.com:juliuscc/realworld-plutt-microapp-login.git
+[submodule "components/realworld-plutt-microapp-tags"]
+	path = components/realworld-plutt-microapp-tags
+	url = git@github.com:juliuscc/realworld-plutt-microapp-tags.git
+[submodule "components/realworld-plutt-microapp-vue-login"]
+	path = components/realworld-plutt-microapp-vue-login
+	url = git@github.com:juliuscc/realworld-plutt-microapp-vue-login.git
