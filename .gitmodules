@@ -13,3 +13,6 @@
 [submodule "components/realworld-plutt-microapp-vue-login"]
 	path = components/realworld-plutt-microapp-vue-login
 	url = git@github.com:juliuscc/realworld-plutt-microapp-vue-login.git
+[submodule "sites/plutt-mock-example"]
+	path = sites/plutt-mock-example
+	url = git@github.com:juliuscc/plutt-mock-example.git
